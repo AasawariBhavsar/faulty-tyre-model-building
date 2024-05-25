@@ -19,4 +19,14 @@
 
                   How to run code
 
-                  1. Open notebook
+                  1. Install following libraries.
+
+                      pip install torch torchvision
+                      pip install numpy pandas seaborn matplotlib
+                      pip install tensorflow
+                      pip install scikit-learn
+                      pip install tqdm
+
+                  2.  Create a 'data' folder, extract the zip file into it. (The data size is large, so it's not included in this repository.)
+                  3.  Execute each cell individually in the notebook.
+
