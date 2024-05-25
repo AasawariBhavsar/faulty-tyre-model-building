@@ -30,3 +30,9 @@
                   2.  Create a 'data' folder, extract the zip file into it. (The data size is large, so it's not included in this repository.)
                   3.  Execute each cell individually in the notebook.
 
+
+
+                  The project has been deployed, but please note that it may experience intermittent issues due to being on the free tier of AWS.
+
+                  http://16.171.56.107/
+
