@@ -37,5 +37,5 @@
 
                   The project has been deployed, but please note that it may experience intermittent issues due to being on the free tier of AWS.
 
-                  http://16.171.56.107/
+                  http://16.16.70.136/
 
