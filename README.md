@@ -26,9 +26,12 @@
                       pip install tensorflow
                       pip install scikit-learn
                       pip install tqdm
+                      
+                  2.  Install using requirements.txt.
+                      pip install -r requirements.txt
 
-                  2.  Create a 'data' folder, extract the zip file into it. (The data size is large, so it's not included in this repository.)
-                  3.  Execute each cell individually in the notebook.
+                  3.  Create a 'data' folder, extract the zip file into it. (The data size is large, so it's not included in this repository.)
+                  4.  Execute each cell individually in the notebook.
 
 
 
